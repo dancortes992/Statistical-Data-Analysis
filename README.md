@@ -3,7 +3,7 @@
 
 This project is part of the data science Tripleten bootcamp practicum. This analysis is focused on learning statistical hypothesis testing.
 
-### Objective
+## Objective
 
 To conduct statistical analysis on behalf on telecom operator Megaline. Projects main concern is to find out which of the two offered prepaid plans ("surf" or "ultimate") is more profitable. 
 Megaline has provided Data on 500 registered clients for the year 2018. Data includes client names, user ids, city of residence, registered date, calls made, messages sent, and internet usage in mbs among other details.
@@ -16,6 +16,6 @@ Study was conducted in four stages:
 - User behavior analysis
 - Hypothesis testing - t-test
 
-### Software
+## Software
 
 **Libraries:** _Python_, _matplotlib_, _NumPy_, _SciPy_
