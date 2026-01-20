@@ -1,5 +1,5 @@
 # Statistical-Data-Analysis
-### Megaline Prepaid Plan Analysis
+### Background
 
 This project is part of the data science Tripleten bootcamp practicum. This analysis is focused on learning statistical hypothesis testing.
 
