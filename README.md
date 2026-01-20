@@ -5,7 +5,8 @@ This project is part of the data science Tripleten bootcamp practicum focused on
 
 ### Objective
 
-To conduct statistical analysis on behalf on telecom operator Megaline. Projects main concern is to find out which of the to offered prepaid plans is better. Study was conducted in four stages.
+To conduct statistical analysis on behalf on telecom operator Megaline. Projects main concern is to find out which of the to offered prepaid plans is more profitable. 
+Study was conducted in four stages:
 - Data preparation
 - Data aggregation 
 - User behavior analysis
